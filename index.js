@@ -3,4 +3,4 @@ window.onload = function(){
   setTimeout(()=>{
     container.style.display = "none"
   },8000)
-}
+} 
